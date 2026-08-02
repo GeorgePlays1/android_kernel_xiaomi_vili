@@ -1,1 +1,1 @@
-# Xiaomi Mi 11 Pro/Ultra Kernel
+# Xiaomi Mi 11T Pro Kerne
