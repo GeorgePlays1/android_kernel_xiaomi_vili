@@ -1,1 +1,1 @@
-# Xiaomi Mi 11T Pro Kerne
+# Xiaomi Mi 11T Pro Kernel
